@@ -14,5 +14,5 @@
 > ghc --make eestinda.hs
 
 **T2psem kasutus**
-> Usage: eestinda [--reverse] --input <filename>
->       eestinda [-r] -i <filename>
+> Usage: eestinda [--reverse] --input <filename> <br>
+>       eestinda [-r] -i <filename> <br>
